@@ -1,0 +1,22 @@
+$pos 2
+CLA
+INC
+ADD 008
+MOV 008
+BR (001)
+$pos A
+ISZ 015
+$pos C
+CLA
+ADD (00A)
+BPL 010
+JSR 001
+ISZ 013
+BR 00C
+HLT
+FFFB
+$pos 16
+BR (4CE)
+BPL 0BA
+$pos 19
+IN (00B)
