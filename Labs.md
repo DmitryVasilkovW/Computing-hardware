@@ -82,6 +82,10 @@
 
 Вариант 1
 
+# Лабораторный практикум
+
+https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FnM8%2F5bopRo9poscMtX1be6g3RUhhk6pTZ1fZJ0Nv1AznRmJD2qf4i66gdefZIvAKq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%20%D0%BF%D0%BE%20%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%AD%D0%92%D0%9C.docx&nosw=1
+
 
 
 
