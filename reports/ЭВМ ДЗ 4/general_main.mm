@@ -1,0 +1,5 @@
+$pos 1
+CMA
+BMI 005
+NOP
+MOV 001
